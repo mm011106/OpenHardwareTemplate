@@ -1,6 +1,8 @@
 *.*
 !/.gitignore
 
+# gitignore for Quartus project folders
+
 # ignore Quartus generated folders
 db/*
 incremental_db/
