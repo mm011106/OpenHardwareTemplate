@@ -1,3 +1,4 @@
+# ignore all files but .gitignore
 *.*
 !/.gitignore
 
@@ -12,6 +13,7 @@ testbench/*
 output_files/*
 *_sim/
 
+# following files must be managed by git 
 # project files
 !*.qpf
 !*.qsf
